@@ -1,0 +1,101 @@
+[
+  {
+    "title": "Samsung",
+    "description": "Buen estado",
+    "price": "Anashei",
+    "thumbnail": "Sin imagen",
+    "code": "abc123",
+    "stock": 25,
+    "id": 0
+  },
+  {
+    "title": "Motorola",
+    "description": "Buen estado",
+    "price": "Anashei",
+    "thumbnail": "Sin imagen",
+    "code": "abc12",
+    "stock": 25,
+    "id": 1
+  },
+  {
+    "title": "Huawei",
+    "description": "Buen estado",
+    "price": "Anashei",
+    "thumbnail": "Sin imagen",
+    "code": "abc1",
+    "stock": 25,
+    "id": 2
+  },
+  {
+    "title": "Iphone",
+    "description": "Buen estado",
+    "price": "Anashei",
+    "thumbnail": "Sin imagen",
+    "code": "abasdc1",
+    "stock": 25,
+    "id": 3
+  },
+  {
+    "title": "Xiaomi",
+    "description": "Buen estado",
+    "price": "Anashei",
+    "thumbnail": "Sin imagen",
+    "code": "abc1asd",
+    "stock": 25,
+    "id": 4
+  },
+  {
+    "title": "Nextel",
+    "description": "Buen estado",
+    "price": "Anashei",
+    "thumbnail": "Sin imagen",
+    "code": "abfasdc1",
+    "stock": 25,
+    "id": 5
+  },
+  {
+    "title": "TCL",
+    "description": "Buen estado",
+    "price": "Anashei",
+    "thumbnail": "Sin imagen",
+    "code": "abcgrefg1",
+    "stock": 25,
+    "id": 6
+  },
+  {
+    "title": "ASUS",
+    "description": "Buen estado",
+    "price": "Anashei",
+    "thumbnail": "Sin imagen",
+    "code": "abhrtc1",
+    "stock": 25,
+    "id": 7
+  },
+  {
+    "title": "RAZER",
+    "description": "Buen estado",
+    "price": "Anashei",
+    "thumbnail": "Sin imagen",
+    "code": "abhvsdc1",
+    "stock": 25,
+    "id": 8
+  },
+  {
+    "title": "LOGITECH",
+    "description": "Buen estado",
+    "price": "Anashei",
+    "thumbnail": "Sin imagen",
+    "code": "abqrfc1",
+    "stock": 25,
+    "id": 9
+  },
+  {
+    "title": "SONY",
+    "description": "Buen estado",
+    "price": "Anashei",
+    "thumbnail": "Sin imagen",
+    "code": "abgadsc1",
+    "stock": 25,
+    "id": 10
+  }
+]
